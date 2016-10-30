@@ -22,6 +22,8 @@ API template
   
   bool MoveJ(std::vectorhdoublei pos);
   
+  ---
+  
  motion commander/commander.msg
  
   uint8 command index
